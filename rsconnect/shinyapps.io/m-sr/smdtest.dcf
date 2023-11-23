@@ -1,0 +1,10 @@
+name: smdtest
+title:
+username: m-sr
+account: m-sr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10603649
+bundleId: 7957959
+url: https://m-sr.shinyapps.io/smdtest/
+version: 1
